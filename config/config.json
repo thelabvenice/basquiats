@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe89Ea8BC13c67A0694143Dc3d7F2c305D75690Fc",
+  "SCAN_LINK": "https://etherscan.io/address/0xe89ea8bc13c67a0694143dc3d7f2c305d75690fc",
+  "NETWORK": {
+    "NAME": "Ethererum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Basquiat Doodles",
+  "SYMBOL": "BASQUIAT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 6900000000000000,
+  "DISPLAY_COST": 0.0069,
+  "GAS_LIMIT": 75000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/basquiat-doodles",
+  "SHOW_BACKGROUND":false
+}
