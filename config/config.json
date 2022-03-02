@@ -9,9 +9,9 @@
   "NFT_NAME": "Basquiat Doodles",
   "SYMBOL": "BASQUIAT",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 6900000000000000,
-  "DISPLAY_COST": 0.0069,
-  "GAS_LIMIT": 75000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 125000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/basquiat-doodles",
   "SHOW_BACKGROUND":false
